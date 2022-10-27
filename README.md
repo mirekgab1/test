@@ -1,4 +1,4 @@
 # test
-hello world
+Hello world.
 
-new line
+New line.
